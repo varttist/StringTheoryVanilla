@@ -1,0 +1,215 @@
+- type: entity
+  parent: BaseItem
+  id: BaseDaki
+  abstract: true
+  name: dakimakura
+  description: "A large pillow depicting a girl in a compromising position. Featuring as many dimensions as you."
+  components:
+  - type: Sprite
+    sprite: Sirena/Objects/Fun/daki.rsi
+    netsync: false
+  - type: EmitSoundOnLand
+    sound:
+      path: /Audio/Sirena/Items/pillow_hit.ogg
+  - type: MeleeWeapon
+    soundHit:
+      path: /Audio/Sirena/Items/pillow_hit.ogg
+    damage:
+      types:
+        Blunt: 0
+
+- type: entity
+  parent: BaseDaki
+  id: DakiChaika
+  components:
+  - type: Sprite
+    state: chaika
+
+- type: entity
+  parent: BaseDaki
+  id: DakiHaruko
+  components:
+  - type: Sprite
+    state: haruko
+
+- type: entity
+  parent: BaseDaki
+  id: DakiKurisu
+  components:
+  - type: Sprite
+    state: kurisu
+
+- type: entity
+  parent: BaseDaki
+  id: DakiYaranaika
+  components:
+  - type: Sprite
+    state: yaranaika
+
+- type: entity
+  parent: BaseDaki
+  id: DakiReisen
+  components:
+  - type: Sprite
+    state: reisen
+
+- type: entity
+  parent: BaseDaki
+  id: DakiNaga
+  components:
+  - type: Sprite
+    state: naga
+
+- type: entity
+  parent: BaseDaki
+  id: DakiHolo
+  components:
+  - type: Sprite
+    state: holo
+
+- type: entity
+  parent: BaseDaki
+  id: DakiNarsie
+  components:
+  - type: Sprite
+    state: narsie
+
+- type: entity
+  parent: BaseDaki
+  id: DakiMarie
+  components:
+  - type: Sprite
+    state: marie
+
+- type: entity
+  parent: BaseDaki
+  id: DakiYoko
+  components:
+  - type: Sprite
+    state: yoko
+
+- type: entity
+  parent: BaseDaki
+  id: DakiToriel
+  components:
+  - type: Sprite
+    state: toriel
+
+- type: entity
+  parent: BaseDaki
+  id: DakiPlutia
+  components:
+  - type: Sprite
+    state: plutia
+
+- type: entity
+  parent: BaseDaki
+  id: DakiSueBowchief
+  components:
+  - type: Sprite
+    state: sue_bowchief
+
+- type: entity
+  parent: BaseDaki
+  id: DakiCasca
+  components:
+  - type: Sprite
+    state: casca
+
+- type: entity
+  parent: BaseDaki
+  id: DakiSquiggly
+  components:
+  - type: Sprite
+    state: squiggly
+
+- type: entity
+  parent: BaseDaki
+  id: DakiPatchouli
+  components:
+  - type: Sprite
+    state: patchouli
+
+- type: entity
+  parent: BaseDaki
+  id: DakiCamille
+  components:
+  - type: Sprite
+    state: camille
+
+- type: entity
+  parent: BaseDaki
+  id: DakiRei
+  components:
+  - type: Sprite
+    state: rei
+
+- type: entity
+  parent: BaseDaki
+  id: DakiTomoko
+  components:
+  - type: Sprite
+    state: tomoko
+
+- type: entity
+  parent: BaseDaki
+  id: DakiElisabeth
+  components:
+  - type: Sprite
+    state: elisabeth
+
+- type: entity
+  parent: BaseDaki
+  id: DakiSquid
+  components:
+  - type: Sprite
+    state: squid
+
+- type: entity
+  parent: BaseDaki
+  id: DakiMugi
+  components:
+  - type: Sprite
+    state: mugi
+
+- type: entity
+  parent: BaseDaki
+  id: DakiCallie
+  components:
+  - type: Sprite
+    state: callie
+
+- type: entity
+  parent: BaseDaki
+  id: DakiIan
+  components:
+  - type: Sprite
+    state: ian
+
+- type: entity
+  parent: BaseDaki
+  id: DakiFoxyGranpa
+  components:
+  - type: Sprite
+    state: foxy_granpa
+
+- type: entity
+  parent: BaseDaki
+  id: DakiUmaru
+  components:
+  - type: Sprite
+    state: umaru
+
+- type: entity
+  parent: BaseDaki
+  id: DakiJolyne
+  components:
+  - type: Sprite
+    state: jolyne
+
+- type: entity
+  parent: BaseDaki
+  id: DakiImera
+  components:
+  - type: Sprite
+    state: imera
