@@ -21,6 +21,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiChaika
+  suffix: chaika
   components:
   - type: Sprite
     state: chaika
@@ -28,6 +29,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiHaruko
+  suffix: haruko
   components:
   - type: Sprite
     state: haruko
@@ -35,6 +37,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiKurisu
+  suffix: kurisu
   components:
   - type: Sprite
     state: kurisu
@@ -42,6 +45,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiYaranaika
+  suffix: yaranaika
   components:
   - type: Sprite
     state: yaranaika
@@ -49,6 +53,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiReisen
+  suffix: reisen
   components:
   - type: Sprite
     state: reisen
@@ -56,6 +61,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiNaga
+  suffix: naga
   components:
   - type: Sprite
     state: naga
@@ -63,6 +69,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiHolo
+  suffix: holo
   components:
   - type: Sprite
     state: holo
@@ -70,6 +77,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiNarsie
+  suffix: narsie
   components:
   - type: Sprite
     state: narsie
@@ -77,6 +85,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiMarie
+  suffix: marie
   components:
   - type: Sprite
     state: marie
@@ -84,6 +93,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiYoko
+  suffix: yoko
   components:
   - type: Sprite
     state: yoko
@@ -91,6 +101,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiToriel
+  suffix: toriel
   components:
   - type: Sprite
     state: toriel
@@ -98,6 +109,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiPlutia
+  suffix: plutia
   components:
   - type: Sprite
     state: plutia
@@ -105,6 +117,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiSueBowchief
+  suffix: sue bowchief
   components:
   - type: Sprite
     state: sue_bowchief
@@ -112,6 +125,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiCasca
+  suffix: casca
   components:
   - type: Sprite
     state: casca
@@ -119,6 +133,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiSquiggly
+  suffix: squiggly
   components:
   - type: Sprite
     state: squiggly
@@ -126,6 +141,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiPatchouli
+  suffix: patchouli
   components:
   - type: Sprite
     state: patchouli
@@ -133,6 +149,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiCamille
+  suffix: camille
   components:
   - type: Sprite
     state: camille
@@ -140,6 +157,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiRei
+  suffix: rei
   components:
   - type: Sprite
     state: rei
@@ -147,6 +165,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiTomoko
+  suffix: tomoko
   components:
   - type: Sprite
     state: tomoko
@@ -154,6 +173,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiElisabeth
+  suffix: elisabeth
   components:
   - type: Sprite
     state: elisabeth
@@ -161,6 +181,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiSquid
+  suffix: squid
   components:
   - type: Sprite
     state: squid
@@ -168,6 +189,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiMugi
+  suffix: mugi
   components:
   - type: Sprite
     state: mugi
@@ -175,6 +197,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiCallie
+  suffix: callie
   components:
   - type: Sprite
     state: callie
@@ -182,6 +205,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiIan
+  suffix: ian
   components:
   - type: Sprite
     state: ian
@@ -189,6 +213,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiFoxyGranpa
+  suffix: foxy granpa
   components:
   - type: Sprite
     state: foxy_granpa
@@ -196,6 +221,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiUmaru
+  suffix: umaru
   components:
   - type: Sprite
     state: umaru
@@ -203,6 +229,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiJolyne
+  suffix: jolyne
   components:
   - type: Sprite
     state: jolyne
@@ -210,6 +237,7 @@
 - type: entity
   parent: BaseDaki
   id: DakiImera
+  suffix: imera
   components:
   - type: Sprite
     state: imera

@@ -87,3 +87,6 @@ ent-DakiJolyne = { ent-BaseDaki }
 
 ent-DakiImera = дакимера
     .desc = { ent-BaseDaki.desc }
+
+ent-VendingMachinePillowmat = МягкоМат
+    .desc = Раздаёт те самые мягкие пушистые высокие... Подушки!
