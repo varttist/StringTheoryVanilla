@@ -88,5 +88,23 @@ ent-DakiJolyne = { ent-BaseDaki }
 ent-DakiImera = дакимера
     .desc = { ent-BaseDaki.desc }
 
+ent-DakiSisa = { ent-BaseDaki }
+    .desc = { ent-BaseDaki.desc }
+
+ent-DakiAurora = { ent-BaseDaki }
+    .desc = { ent-BaseDaki.desc }
+
+ent-DakiSlarsha = { ent-BaseDaki }
+    .desc = { ent-BaseDaki.desc }
+
+ent-DakiNukie = { ent-BaseDaki }
+    .desc = { ent-BaseDaki.desc }
+
+ent-DakiRocker = { ent-BaseDaki }
+    .desc = { ent-BaseDaki.desc }
+
+ent-DakiRed = { ent-BaseDaki }
+    .desc = { ent-BaseDaki.desc }
+
 ent-VendingMachinePillowmat = МягкоМат
     .desc = Раздаёт те самые мягкие пушистые высокие... Подушки!

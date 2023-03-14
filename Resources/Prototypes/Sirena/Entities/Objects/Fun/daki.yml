@@ -241,3 +241,51 @@
   components:
   - type: Sprite
     state: imera
+
+- type: entity
+  parent: BaseDaki
+  id: DakiSisa
+  suffix: sisa
+  components:
+  - type: Sprite
+    state: sisa
+
+- type: entity
+  parent: BaseDaki
+  id: DakiAurora
+  suffix: aurora
+  components:
+  - type: Sprite
+    state: aurora
+
+- type: entity
+  parent: BaseDaki
+  id: DakiSlarsha
+  suffix: slarsha
+  components:
+  - type: Sprite
+    state: slarsha
+
+- type: entity
+  parent: BaseDaki
+  id: DakiNukie
+  suffix: nukie
+  components:
+  - type: Sprite
+    state: nukie
+
+- type: entity
+  parent: BaseDaki
+  id: DakiRocker
+  suffix: rocker
+  components:
+  - type: Sprite
+    state: rocker
+
+- type: entity
+  parent: BaseDaki
+  id: DakiRed
+  suffix: red
+  components:
+  - type: Sprite
+    state: red
