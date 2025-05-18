@@ -14,8 +14,8 @@ Space Station 14 это ремейк SS13, который работает на 
 
 ## Контрибьют
 
-Мы рады принять вклад от любого человека. Заходите в Discord, если хотите помочь. У нас есть [список проблем](https://github.com/space-syndicate/space-station-14-content/issues), которые нужно решить, и любой может за них взяться. Не бойтесь просить о помощи!
-Только убедитесь, что ваши изменения и PRы соответствуют [руководству по контрибьюту](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html).
+Мы рады принять вклад от любого человека из нашей локальной тусовки. У нас есть [список проблем и задач](https://github.com/varttist/StringTheoryVanilla/issues), которые нужно решить, и любой может за них взяться. Не бойтесь просить о помощи!
+Только убедитесь, что вы следуете [руководству по контрибьюту от оффов](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html). А также не забывайте, что **обозначение нашего кода помечается как "ST14"** (аббревиатура String Theory 14).
 
 ## Сборка
 
