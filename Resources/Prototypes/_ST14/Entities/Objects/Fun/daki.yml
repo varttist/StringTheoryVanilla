@@ -7,6 +7,9 @@
   components:
   - type: Sprite
     sprite: _ST14/Objects/Fun/daki.rsi
+    layers:
+    - state: base
+    - state: base
     netsync: false
   - type: EmitSoundOnLand
     sound:
@@ -24,7 +27,9 @@
   suffix: chaika
   components:
   - type: Sprite
-    state: chaika
+    layers:
+    - state: base
+    - state: chaika
 
 - type: entity
   parent: BaseDaki
@@ -32,7 +37,9 @@
   suffix: haruko
   components:
   - type: Sprite
-    state: haruko
+    layers:
+    - state: base
+    - state: haruko
 
 - type: entity
   parent: BaseDaki
@@ -40,7 +47,9 @@
   suffix: kurisu
   components:
   - type: Sprite
-    state: kurisu
+    layers:
+    - state: base
+    - state: kurisu
 
 - type: entity
   parent: BaseDaki
@@ -48,7 +57,9 @@
   suffix: yaranaika
   components:
   - type: Sprite
-    state: yaranaika
+    layers:
+    - state: base
+    - state: yaranaika
 
 - type: entity
   parent: BaseDaki
@@ -56,7 +67,9 @@
   suffix: reisen
   components:
   - type: Sprite
-    state: reisen
+    layers:
+    - state: base
+    - state: reisen
 
 - type: entity
   parent: BaseDaki
@@ -64,7 +77,9 @@
   suffix: naga
   components:
   - type: Sprite
-    state: naga
+    layers:
+    - state: base
+    - state: naga
 
 - type: entity
   parent: BaseDaki
@@ -72,7 +87,9 @@
   suffix: holo
   components:
   - type: Sprite
-    state: holo
+    layers:
+    - state: base
+    - state: holo
 
 - type: entity
   parent: BaseDaki
@@ -80,7 +97,9 @@
   suffix: narsie
   components:
   - type: Sprite
-    state: narsie
+    layers:
+    - state: base
+    - state: narsie
 
 - type: entity
   parent: BaseDaki
@@ -88,7 +107,9 @@
   suffix: marie
   components:
   - type: Sprite
-    state: marie
+    layers:
+    - state: base
+    - state: marie
 
 - type: entity
   parent: BaseDaki
@@ -96,7 +117,9 @@
   suffix: yoko
   components:
   - type: Sprite
-    state: yoko
+    layers:
+    - state: base
+    - state: yoko
 
 - type: entity
   parent: BaseDaki
@@ -104,7 +127,9 @@
   suffix: toriel
   components:
   - type: Sprite
-    state: toriel
+    layers:
+    - state: base
+    - state: toriel
 
 - type: entity
   parent: BaseDaki
@@ -112,7 +137,9 @@
   suffix: plutia
   components:
   - type: Sprite
-    state: plutia
+    layers:
+    - state: base
+    - state: plutia
 
 - type: entity
   parent: BaseDaki
@@ -120,7 +147,9 @@
   suffix: sue bowchief
   components:
   - type: Sprite
-    state: sue_bowchief
+    layers:
+    - state: base
+    - state: sue_bowchief
 
 - type: entity
   parent: BaseDaki
@@ -128,7 +157,9 @@
   suffix: casca
   components:
   - type: Sprite
-    state: casca
+    layers:
+    - state: base
+    - state: casca
 
 - type: entity
   parent: BaseDaki
@@ -136,7 +167,9 @@
   suffix: squiggly
   components:
   - type: Sprite
-    state: squiggly
+    layers:
+    - state: base
+    - state: squiggly
 
 - type: entity
   parent: BaseDaki
@@ -144,7 +177,9 @@
   suffix: patchouli
   components:
   - type: Sprite
-    state: patchouli
+    layers:
+    - state: base
+    - state: patchouli
 
 - type: entity
   parent: BaseDaki
@@ -152,7 +187,9 @@
   suffix: camille
   components:
   - type: Sprite
-    state: camille
+    layers:
+    - state: base
+    - state: camille
 
 - type: entity
   parent: BaseDaki
@@ -160,7 +197,9 @@
   suffix: rei
   components:
   - type: Sprite
-    state: rei
+    layers:
+    - state: base
+    - state: rei
 
 - type: entity
   parent: BaseDaki
@@ -168,7 +207,9 @@
   suffix: tomoko
   components:
   - type: Sprite
-    state: tomoko
+    layers:
+    - state: base
+    - state: tomoko
 
 - type: entity
   parent: BaseDaki
@@ -176,7 +217,9 @@
   suffix: elisabeth
   components:
   - type: Sprite
-    state: elisabeth
+    layers:
+    - state: base
+    - state: elisabeth
 
 - type: entity
   parent: BaseDaki
@@ -184,7 +227,9 @@
   suffix: squid
   components:
   - type: Sprite
-    state: squid
+    layers:
+    - state: base
+    - state: squid
 
 - type: entity
   parent: BaseDaki
@@ -192,7 +237,9 @@
   suffix: mugi
   components:
   - type: Sprite
-    state: mugi
+    layers:
+    - state: base
+    - state: mugi
 
 - type: entity
   parent: BaseDaki
@@ -200,7 +247,9 @@
   suffix: callie
   components:
   - type: Sprite
-    state: callie
+    layers:
+    - state: base
+    - state: callie
 
 - type: entity
   parent: BaseDaki
@@ -208,7 +257,9 @@
   suffix: ian
   components:
   - type: Sprite
-    state: ian
+    layers:
+    - state: base
+    - state: ian
 
 - type: entity
   parent: BaseDaki
@@ -216,7 +267,9 @@
   suffix: foxy granpa
   components:
   - type: Sprite
-    state: foxy_granpa
+    layers:
+    - state: base
+    - state: foxy_granpa
 
 - type: entity
   parent: BaseDaki
@@ -224,7 +277,9 @@
   suffix: umaru
   components:
   - type: Sprite
-    state: umaru
+    layers:
+    - state: base
+    - state: umaru
 
 - type: entity
   parent: BaseDaki
@@ -232,7 +287,9 @@
   suffix: jolyne
   components:
   - type: Sprite
-    state: jolyne
+    layers:
+    - state: base
+    - state: jolyne
 
 - type: entity
   parent: BaseDaki
@@ -240,7 +297,9 @@
   suffix: imera
   components:
   - type: Sprite
-    state: imera
+    layers:
+    - state: base
+    - state: imera
 
 - type: entity
   parent: BaseDaki
@@ -248,7 +307,9 @@
   suffix: sisa
   components:
   - type: Sprite
-    state: sisa
+    layers:
+    - state: base
+    - state: sisa
 
 - type: entity
   parent: BaseDaki
@@ -256,7 +317,9 @@
   suffix: aurora
   components:
   - type: Sprite
-    state: aurora
+    layers:
+    - state: base
+    - state: aurora
 
 - type: entity
   parent: BaseDaki
@@ -264,7 +327,9 @@
   suffix: slarsha
   components:
   - type: Sprite
-    state: slarsha
+    layers:
+    - state: base
+    - state: slarsha
 
 - type: entity
   parent: BaseDaki
@@ -272,7 +337,9 @@
   suffix: nukie
   components:
   - type: Sprite
-    state: nukie
+    layers:
+    - state: base
+    - state: nukie
 
 - type: entity
   parent: BaseDaki
@@ -280,7 +347,9 @@
   suffix: rocker
   components:
   - type: Sprite
-    state: rocker
+    layers:
+    - state: base
+    - state: rocker
 
 - type: entity
   parent: BaseDaki
@@ -288,4 +357,6 @@
   suffix: red
   components:
   - type: Sprite
-    state: red
+    layers:
+    - state: base
+    - state: red
