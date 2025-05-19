@@ -6,14 +6,14 @@
   description: "A large pillow depicting a girl in a compromising position. Featuring as many dimensions as you."
   components:
   - type: Sprite
-    sprite: Sirena/Objects/Fun/daki.rsi
+    sprite: _ST14/Objects/Fun/daki.rsi
     netsync: false
   - type: EmitSoundOnLand
     sound:
-      path: /Audio/Sirena/Items/pillow_hit.ogg
+      path: /Audio/_ST14/Items/pillow_hit.ogg
   - type: MeleeWeapon
     soundHit:
-      path: /Audio/Sirena/Items/pillow_hit.ogg
+      path: /Audio/_ST14/Items/pillow_hit.ogg
     damage:
       types:
         Blunt: 0
