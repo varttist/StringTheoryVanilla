@@ -1,7 +1,7 @@
 - type: gameMap
-  id: CorvaxCute
+  id: ST14Cute
   mapName: 'Cute'
-  mapPath: /Maps/Corvax/corvax_cute.yml
+  mapPath: /Maps/_ST14/st14_cute.yml
   maxRandomOffset: 0
   randomRotation: false
   minPlayers: 0
