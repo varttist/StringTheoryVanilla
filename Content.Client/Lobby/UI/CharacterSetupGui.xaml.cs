@@ -1,6 +1,7 @@
 using Content.Client.Info;
 using Content.Client.Info.PlaytimeStats;
 using Content.Client.Resources;
+using Content.Client.Stylesheets; //ST14
 using Content.Corvax.Interfaces.Client;
 using Content.Shared.CCVar;
 using Content.Shared.Preferences;
@@ -37,11 +38,11 @@ namespace Content.Client.Lobby.UI
             RobustXamlLoader.Load(this);
             IoCManager.InjectDependencies(this);
 
-            var panelTex = _resourceCache.GetTexture("/Textures/Interface/Nano/button.svg.96dpi.png");
+            var transparentPanelTex = _resourceCache.GetTexture("/Textures/_ST14/Interface/Nano/transparent_button.svg.96dpi.png"); //ST14 Changed
             var back = new StyleBoxTexture
             {
-                Texture = panelTex,
-                Modulate = new Color(37, 37, 42)
+                Texture = transparentPanelTex, ////ST14 Changed
+                Modulate = StyleNano.PanelDark //ST14 Changed
             };
             back.SetPatchMargin(StyleBox.Margin.All, 10);
 
