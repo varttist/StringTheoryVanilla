@@ -380,7 +380,7 @@ namespace Content.Client.Stylesheets
             actionSearchBox.SetPatchMargin(StyleBox.Margin.All, 3);
             actionSearchBox.SetContentMarginOverride(StyleBox.Margin.Horizontal, 5);
 
-            var tabContainerPanelTex = resCache.GetTexture("/Textures/_ST14/Interface/Nano/transparent_tabcontainer_panel.png");
+            var tabContainerPanelTex = resCache.GetTexture("/Textures/_ST14/Interface/Nano/transparent_tabcontainer_panel.png"); //ST14 Changed
             var tabContainerPanel = new StyleBoxTexture
             {
                 Texture = tabContainerPanelTex,
