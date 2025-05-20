@@ -151,7 +151,7 @@ namespace Content.Client.Stylesheets
         public const string StyleClassButtonColorRed = "ButtonColorRed";
         public const string StyleClassButtonColorGreen = "ButtonColorGreen";
 
-        public static readonly Color ChatBackgroundColor = Color.FromHex("#090812");
+        public static readonly Color ChatBackgroundColor = Color.FromHex("#090812"); //ST14 Changed
 
         //Bwoink
         public const string StyleClassPinButtonPinned = "pinButtonPinned";
