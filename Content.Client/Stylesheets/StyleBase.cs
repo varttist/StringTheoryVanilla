@@ -19,7 +19,7 @@ namespace Content.Client.Stylesheets
         public const string StyleClassItalic = "Italic";
 
         public const string ClassAngleRect = "AngleRect";
-        public const string ClassTransparentAngleRect = "TransparentAngleRect";
+        public const string ClassTransparentAngleRect = "TransparentAngleRect"; //ST14 Changed
 
         public const string ButtonOpenRight = "OpenRight";
         public const string ButtonOpenLeft = "OpenLeft";
